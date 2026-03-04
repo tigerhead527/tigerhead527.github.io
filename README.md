@@ -1,1 +1,1 @@
-my blog: https://tigerhead527.github.io
+https://tigerhead527.github.io
